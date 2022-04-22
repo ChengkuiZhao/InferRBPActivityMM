@@ -13,4 +13,4 @@ We developed a pipeline to infer the RBP activity for specific diseases and furt
 2. Download the method code and data you want to apply in the Github
 3. Run the code step by step
 ## Note
-* The Gene expression file of the MMRF used in GSEA analysis is too large for the Github, you can download from 
+* The Gene expression file of the MMRF used in GSEA analysis is too large for the Github, you can download from http://predscmirna.chengqi.site/RBPData/TPM.Rdata and http://predscmirna.chengqi.site/RBPData/TPM_selected.Rdata.
